@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF8">
+<title>MJTECH visions</title>
+<style>
+body {
+      font-family:serif;
+      background-color: hotpink;
+
+}
+</style>
+</head>
+<body>
+<h1 style="color:red;">MJTECH</h1>
+<h3> this is the vision of the MJTECH organization</h3>
+<ul>
+     <li>mjtech is not a profit proposed organization</li>
+     <li>mjtech is here to help young people learn how to code<br/>
+     even when you dont have available resources and gadgets</li>
+     <li>MJTECH plans to help millions of people all over the world learn about coding</li>
+     <li>you can code with an Android device!!</li>
+     <li>mjtech will guide you through all of your coding learning and help you grow in the field of programming</li>
+
+
+</ul>
+<p style="color:blue;">MJTECH organization <br/>
+is your number 1 tech organization to help young people learn codes.<br/>
+you dont need any investment or fee, just your Android device,thats all you need.</p>
+<p style="color:green:"> MJTECH <sub> your no1 tech friend</sub></p>
+
+
+</body>
+</html>
